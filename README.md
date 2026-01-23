@@ -1,2 +1,2 @@
-# bash
+# Bash
 Bash scripts for Linux
