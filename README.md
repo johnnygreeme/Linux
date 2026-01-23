@@ -1,3 +1,3 @@
 # Bash
 
-Bash scripts for Linux 🐳
+Bash scripts for Linux 🐳🐋🦈
