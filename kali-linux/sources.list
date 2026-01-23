@@ -1,0 +1,19 @@
+# [~] Sources list Kali Linux 🦈
+# [~] Johnny Greeme
+
+# [~] Replace the text in the file "/etc/apt/sources.list" with this:
+
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
+# deb http://http.kali.org/kali/ kali-rolling main contrib non-free non-free-firmware
+
+# Additional line for source packages
+# deb-src http://http.kali.org/kali/ kali-rolling main contrib non-free non-free-firmware
+
+# [~] Main Europe Kali mirror
+# deb https://kali.download/kali/ kali-rolling main contrib non-free non-free-firmware
+
+# [~] Russian Kali mirror
+# deb https://mirror.yandex.ru/kali/ kali-rolling main contrib non-free non-free-firmware
+
+# [~] German Kali mirror
+deb https://ftp.halifax.rwth-aachen.de/kali kali-rolling main contrib non-free non-free-firmware
