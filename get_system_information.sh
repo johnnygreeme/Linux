@@ -5,3 +5,5 @@ get_system_information() {
     (echo -e "[*] hosthame" && hosthame) || \
     (echo -e "[*] uname -n" && uname -n)
 }
+
+get_system_information
