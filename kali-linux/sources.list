@@ -1,7 +1,7 @@
 # Sources list Kali Linux 🦈
 # Johnny Greeme
 
-# 1. Replace the text in the file "/etc/apt/sources.list" with this:
+# 1. Replace the text in the file `/etc/apt/sources.list` with this:
 
 # See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
 # deb http://http.kali.org/kali/ kali-rolling main contrib non-free non-free-firmware
@@ -17,5 +17,5 @@
 deb https://ftp.halifax.rwth-aachen.de/kali kali-rolling main contrib non-free non-free-firmware
 
 # 2. After changing mirrors, be sure to update your package lists and the system itself:
-# sudo apt update
-# sudo apt full-upgrade -y
+# `sudo apt update`
+# `sudo apt full-upgrade -y`
